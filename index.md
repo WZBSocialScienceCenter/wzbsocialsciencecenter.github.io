@@ -1,9 +1,5 @@
-# WZB - Social Science Center Berlin GitHub pages
+## WZB - Social Science Center Berlin GitHub pages
 
-For study material for the R Tutorial given at the WZB visit:
-
-https://wzbsocialsciencecenter.github.io/wzb_r_tutorial/
-
-For the WZB GitHub repository visit:
-
-https://github.com/WZBSocialScienceCenter
+* [study material for the R Tutorial given at the WZB](https://wzbsocialsciencecenter.github.io/wzb_r_tutorial/)
+* [WZB GitHub repository](https://github.com/WZBSocialScienceCenter)
+* [wzb.eu homepage](https://wzb.eu)
